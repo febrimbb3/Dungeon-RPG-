@@ -1,0 +1,6 @@
+{
+  "name": "Dungeon 100",
+  "description": "Game RPG Dungeon Crawler 100 Lantai: Kelas Pedang & Sihir, crafting & penguatan senjata mistis, party penjelajah, checkpoint toko & istirahat tiap 5 lantai, serta rank leaderboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

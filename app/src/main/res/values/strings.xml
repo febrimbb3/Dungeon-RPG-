@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Dungeon 100</string>
+    <string name="nav_dungeon">Dungeon</string>
+    <string name="nav_party">Party</string>
+    <string name="nav_crafting">Crafting</string>
+    <string name="nav_checkpoint">Checkpoint</string>
+    <string name="nav_rank">Peringkat</string>
+    <string name="class_sword">Ksatria Pedang</string>
+    <string name="class_mage">Penyihir Mantra</string>
+</resources>
